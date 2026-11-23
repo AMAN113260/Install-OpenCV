@@ -1,7 +1,7 @@
-Install-OpenCV
+nstall-OpenCV
 ==============
 
-shell scripts to install different version of OpenCV in different distributions of Linux
+shell scripts to install different version of OpenCV in different Linux distributions 
 
 ### Ubuntu
 if your system is Ubuntu, run the commands below.
